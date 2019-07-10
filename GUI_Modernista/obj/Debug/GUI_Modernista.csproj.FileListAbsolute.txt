@@ -1,0 +1,10 @@
+C:\Users\german lol\source\repos\GUI_Modernista\bin\Debug\GUI_Modernista.exe.config
+C:\Users\german lol\source\repos\GUI_Modernista\bin\Debug\GUI_Modernista.exe
+C:\Users\german lol\source\repos\GUI_Modernista\bin\Debug\GUI_Modernista.pdb
+C:\Users\german lol\source\repos\GUI_Modernista\obj\Debug\GUI_Modernista.csprojAssemblyReference.cache
+C:\Users\german lol\source\repos\GUI_Modernista\obj\Debug\GUI_Modernista.Form1.resources
+C:\Users\german lol\source\repos\GUI_Modernista\obj\Debug\GUI_Modernista.Properties.Resources.resources
+C:\Users\german lol\source\repos\GUI_Modernista\obj\Debug\GUI_Modernista.csproj.GenerateResource.cache
+C:\Users\german lol\source\repos\GUI_Modernista\obj\Debug\GUI_Modernista.csproj.CoreCompileInputs.cache
+C:\Users\german lol\source\repos\GUI_Modernista\obj\Debug\GUI_Modernista.exe
+C:\Users\german lol\source\repos\GUI_Modernista\obj\Debug\GUI_Modernista.pdb

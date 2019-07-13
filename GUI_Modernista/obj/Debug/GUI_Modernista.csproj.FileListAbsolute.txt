@@ -8,3 +8,5 @@ C:\Users\german lol\source\repos\GUI_Modernista\obj\Debug\GUI_Modernista.csproj.
 C:\Users\german lol\source\repos\GUI_Modernista\obj\Debug\GUI_Modernista.csproj.CoreCompileInputs.cache
 C:\Users\german lol\source\repos\GUI_Modernista\obj\Debug\GUI_Modernista.exe
 C:\Users\german lol\source\repos\GUI_Modernista\obj\Debug\GUI_Modernista.pdb
+C:\Users\german lol\source\repos\GUI_Modernista\obj\Debug\GUI_Modernista.inicio.resources
+C:\Users\german lol\source\repos\GUI_Modernista\obj\Debug\GUI_Modernista.productos.resources
